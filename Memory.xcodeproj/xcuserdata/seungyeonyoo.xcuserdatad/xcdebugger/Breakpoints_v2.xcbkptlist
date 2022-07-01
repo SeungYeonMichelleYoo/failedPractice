@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "68FB4D00-DC96-4783-8616-572D26D3341A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEEB3DA6-4C52-4B5D-8181-16AD5ACA949F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MemoCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DEEB3DA6-4C52-4B5D-8181-16AD5ACA949F - e7ee8dce91bf8e78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memory.MemoCell.contents.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Memory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungyeonyoo/Desktop/swift_book3/Memory/MemoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DEEB3DA6-4C52-4B5D-8181-16AD5ACA949F - 4782527909922a64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memory.MemoCell.contents.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Memory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungyeonyoo/Desktop/swift_book3/Memory/MemoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DEEB3DA6-4C52-4B5D-8181-16AD5ACA949F - 2fcdf6f3457e2577"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memory.MemoCell.contents.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Memory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungyeonyoo/Desktop/swift_book3/Memory/MemoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "DEEB3DA6-4C52-4B5D-8181-16AD5ACA949F - 621d5585415a6f64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memory.MemoCell.contents.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Memory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungyeonyoo/Desktop/swift_book3/Memory/MemoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "DEEB3DA6-4C52-4B5D-8181-16AD5ACA949F - 676c1fd06477401c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memory.MemoCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Memory.MemoCell"
+                  moduleName = "Memory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungyeonyoo/Desktop/swift_book3/Memory/MemoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "DEEB3DA6-4C52-4B5D-8181-16AD5ACA949F - c38135592c28eba3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memory.MemoCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Memory.MemoCell&gt;"
+                  moduleName = "Memory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungyeonyoo/Desktop/swift_book3/Memory/MemoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
